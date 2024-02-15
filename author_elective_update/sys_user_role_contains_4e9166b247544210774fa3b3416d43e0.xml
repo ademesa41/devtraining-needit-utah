@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="task_editor" name="task_editor">0956f6390a0a0bc50064623d5d51c556</contains>
+        <role display_value="x_58872_needit.case_user" name="x_58872_needit.case_user">8f32e8b747233110774fa3b3416d43d0</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-15 15:32:41</sys_created_on>
+        <sys_id>4e9166b247544210774fa3b3416d43e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task_editor.x_58872_needit.case_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_contains_4e9166b247544210774fa3b3416d43e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-15 15:32:41</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5d3061eedb2a7d1038f11729139619ff</instance_id>
+        <instance_name>dev217407</instance_name>
+        <name>sys_user_role_contains_4e9166b247544210774fa3b3416d43e0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="task_editor" name="task_editor">0956f6390a0a0bc50064623d5d51c556</contains><role display_value="x_58872_needit.case_user" name="x_58872_needit.case_user">8f32e8b747233110774fa3b3416d43d0</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-15 15:32:41</sys_created_on><sys_id>4e9166b247544210774fa3b3416d43e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>task_editor.x_58872_needit.case_user</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_user_role_contains_4e9166b247544210774fa3b3416d43e0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-15 15:32:41</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>-1256480417</payload_hash>
+        <record_name>task_editor.x_58872_needit.case_user</record_name>
+        <reverted_from/>
+        <source>1b02004f47a73110774fa3b3416d4328</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-15 15:32:41</sys_created_on>
+        <sys_id>ce9166b247544210774fa3b3416d43e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dad66064d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-15 15:32:41</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>069166b2245442104e7de640b20332e5</update_guid>
+        <update_guid_history>069166b2245442104e7de640b20332e5:-1256480417</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-15 15:41:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>432588fd9326492aa079983bee728ab9</sys_id>
+        <sys_metadata>4e9166b247544210774fa3b3416d43e0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task_editor.x_58872_needit.case_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_4e9166b247544210774fa3b3416d43e0</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_4e9166b247544210774fa3b3416d43e0">ce9166b247544210774fa3b3416d43e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-15 15:41:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
